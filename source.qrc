@@ -1,0 +1,32 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>source/heart.png</file>
+    <file>source/sansStatic.png</file>
+    <file>source/sansBone.png</file>
+    <file>source/background.png</file>
+    <file>source/sansBall.png</file>
+    <file>source/fight.png</file>
+    <file>source/act.png</file>
+    <file>source/item.png</file>
+    <file>source/mercy.png</file>
+    <file>source/sansHead.png</file>
+    <file>source/dialog0.png</file>
+    <file>source/dialog1.png</file>
+    <file>source/dialog2.png</file>
+    <file>source/dialog3.png</file>
+    <file>source/dialog4.png</file>
+    <file>source/dialog5.png</file>
+    <file>source/dialog6.png</file>
+    <file>source/inventory1.png</file>
+    <file>source/inventory2.png</file>
+    <file>source/inventory3.png</file>
+    <file>source/inventory4.png</file>
+    <file>source/run.png</file>
+    <file>source/attackBar.png</file>
+    <file>source/sound.mp3</file>
+    <file>source/snd_damage_c.wav</file>
+    <file>source/snd_heal_c.wav</file>
+    <file>source/snd_squeak.wav</file>
+    <file>source/snd_txtsans.mp3</file>
+</qresource>
+</RCC>
